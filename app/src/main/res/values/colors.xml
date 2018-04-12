@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bgColor">#0f1526</color>
+    <color name="nav_bg_color">#0f1526</color>
+    <color name="white">#ffffff</color>
+
+    <!--登录模块-->
+    <color name="login_edit_hint">#81a2dd</color>
+    <color name="text_color">#0f1526</color>
+    <color name="text_primary_color">#e2f592</color>
+
+    <color name="light_blue_gradient_start">#d6e5f3</color>
+    <color name="light_blue_gradient_end">#97aabe</color>
+    <color name="light_green_gradient_start">#e0f392</color>
+    <color name="light_green_gradient_end">#849734</color>
+    <color name="light_orange_gradient_start">#fcdb80</color>
+    <color name="light_orange_gradient_end">#a66d0a</color>
+
+    <color name="gray_gradient_start">#f7f5f5</color>
+    <color name="gray_gradient_end">#908d8d</color>
+
+    <color name="divide_line">#909cab</color>
+    <color name="price_color">#dd0808</color>
+    <color name="weight_border_color">#7b8fbf</color>
+
+    <color name="divider">#E5E5E5</color>
+</resources>

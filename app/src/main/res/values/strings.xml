@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">XJX DEMO</string>
+    <string name="network_error">网络出现异常，请检查网线或WIFI是否正常</string>
+    <string name="dns_error">网络出现异常，无法解析服务器，请联系运营商处理</string>
+    <string name="server_error">云端服务器出现异常，请联系IT人员处理</string>
+    <string name="response_error">服务器数据异常，请联系IT人员处理</string>
+    <string name="response_error_with_reason">服务器数据异常，%s，请联系IT人员处理</string>
+    <string name="unknown_error">网络请求失败，请稍后重试或联系IT人员处理</string>
+
+    <!-- 登录相关字符串 -->
+    <string name="prompt_username">请输入用户名</string>
+    <string name="prompt_password">请输入密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="login_title">XX平台</string>
+    <string name="text_login">登录</string>
+    <string name="token_invalid">登录信息过期，请重新登录</string>
+
+</resources>
